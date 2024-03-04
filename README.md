@@ -215,5 +215,5 @@ sudo systemctl reload nginx
 ```
 sudo tail /var/log/nginx/access.log
 ```
-### Над проектом работал
+### Автор
 [Тачеев Алексей](https://github.com/lexeyt/)
